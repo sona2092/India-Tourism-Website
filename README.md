@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your "India Tourism Website" project:
-
----
-
 # India Tourism Website
 
 ## Project Overview
@@ -76,7 +72,3 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` file gives a comprehensive overview of your project, including its purpose, features, technologies used, and instructions for installation and usage. You can modify the content as necessary to better fit your project specifics.
