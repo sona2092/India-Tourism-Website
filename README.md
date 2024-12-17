@@ -61,6 +61,17 @@ The India Tourism Website is a responsive and user-friendly web application desi
 ## Usage
 To view the India Tourism Website, simply open the `index.html` file in a web browser. The website is designed to be fully functional locally or can be deployed to a web server for public access.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/9d80dd29-dbe9-4935-a9f6-4f90a227327b)
+![image](https://github.com/user-attachments/assets/898168b2-e7a5-477b-9c25-a7084b2b7e3d)
+![image](https://github.com/user-attachments/assets/d86d9ee2-efe2-44c2-b50d-8999a80f101b)
+![image](https://github.com/user-attachments/assets/a4ef47f9-c659-4825-a90e-8d9d9a3e0b1e)
+![image](https://github.com/user-attachments/assets/f4687ef5-3661-44f2-900f-98ebfb1a6cc5)
+![image](https://github.com/user-attachments/assets/c3a39945-8aed-48ca-9028-ad6e143cc461)
+![image](https://github.com/user-attachments/assets/b6e5f1e7-6029-4a11-8fc0-43551634aa22)
+![image](https://github.com/user-attachments/assets/3c2916cb-5c0b-44c0-9344-4cfb8e565772)
+
+
 ## Future Enhancements
 - **Dynamic Content Management:** Integration with a CMS to allow easy updates and management of content.
 - **Interactive Map:** Adding an interactive map of India with clickable regions leading to specific location pages.
